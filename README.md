@@ -588,24 +588,3 @@ SETUP NOTES
 
 ═══════════════════════════════════════════════════════════════════════
 -->
-🎓 Education & Professional Credentials
-🎓 Management Information Systems (MIS)
-
-Academic background combining corporate systems analysis, business strategy, database management, and software engineering.
-
-📜 Certified Technical Training & Infrastructure Credentials:
-
-Cisco: Network Topologies, Routing, Switching, and Infrastructure Protocols.
-
-Microsoft: Software Development & Cloud Fundamentals.
-
-HP: Enterprise Hardware, System Architecture & Lifecycle Management.
-
-📊 GitHub Analytics & Real-Time Metrics
-📺 MH Platform Tech
-██████╗ ██╗   ██╗██╗██╗     ██████╗     ███████╗███╗   ██╗ ██████╗ ██╗███╗   ██╗███████╗███████╗██████╗ 
-██╔══██╗██║   ██║██║██║     ██╔══██╗    ██╔════╝████╗  ██║██╔════╝ ██║████╗  ██║██╔════╝██╔════╝██╔══██╗
-██████╔╝██║   ██║██║██║     ██║  ██║    █████╗  ██╔██╗ ██║██║  ███╗██║██╔██╗ ██║█████╗  █████╗  ██████╔╝
-██╔══██╗██║   ██║██║██║     ██║  ██║    ██╔══╝  ██║╚██╗██║██║   ██║██║██║╚██╗██║██╔══╝  ██╔══╝  ██╔══██╗
-██████╔╝╚██████╔╝██║███████╗██████╔╝    ███████╗██║ ╚████║╚██████╔╝██║██║ ╚████║███████╗███████╗██║  ██║
-╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝     ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════
