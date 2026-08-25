@@ -373,38 +373,6 @@ This background supports a cross-disciplinary perspective spanning:
 
 **Software + Systems + Infrastructure + Business Information Systems**
 
----
-
-# 📊 GitHub Intelligence
-
-<div align="center">
-
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true"
-    height="180"
-    alt="GitHub Statistics"
-  />
-</a>
-
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
-    height="180"
-    alt="Top Languages"
-  />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</a>
-
-</div>
 
 ---
 
